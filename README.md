@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Oi, eu sou o Gabriel
+## 👋 Oi, eu sou o Gabriel, mais conhecido como Biel!
 
 Sou **Software Engineer no Nubank**, trabalhando com **backend em Clojure** e arquitetura de **microsserviços orientados a eventos**.
 
