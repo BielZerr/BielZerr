@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=8A05BE&center=true&vCenter=true&width=620&lines=Gabriel+Souza;Software+Engineer+%40+Nubank;Clojure+%7C+Event-driven+%7C+Platform" alt="Gabriel Souza" />
+# Gabriel Souza
+
+**Software Engineer @ Nubank** · Clojure · Event-driven · Platform
 
 <p>
   <img src="https://img.shields.io/badge/Nubank-8A05BE?style=for-the-badge&logo=nubank&logoColor=white" alt="Nubank">
@@ -64,7 +66,7 @@ Antes de escrever código, eu gasto tempo desenhando o fluxo. Depois disso, a im
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Dados & Mensageria**
 
@@ -116,18 +118,9 @@ Antes de escrever código, eu gasto tempo desenhando o fluxo. Depois disso, a im
 
 ---
 
-## 📈 GitHub
+## 📈 Sobre o gráfico aqui do lado
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BielZerr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple&icon_color=8A05BE&hide=issues" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=BielZerr&hide_border=true&theme=midnight-purple&fire=8A05BE" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BielZerr&theme=react-dark&bg_color=0D1117&color=8A05BE&line=8A05BE&point=FFFFFF&hide_border=true&area=true" alt="activity graph" />
-
-</div>
-
-<sub>A maior parte do meu código vive em repositórios privados de trabalho, então o gráfico conta mais história que a lista de repos.</sub>
+A maior parte do que eu escrevo vive em repositórios privados de trabalho. Então a lista de repos públicos aqui é curta de propósito — o gráfico de contribuições conta mais história do que ela.
 
 ---
 
