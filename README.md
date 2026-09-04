@@ -30,7 +30,7 @@ Antes de escrever código, eu gasto tempo desenhando o fluxo. Depois disso, a im
 (def gabriel
   {:role       "Software Engineer @ Nubank"
    :focus      [:backend :event-driven :platform :automation]
-   :languages  ["Clojure" "Python" "SQL"]
+   :languages  ["Clojure" "Python"]
    :daily      #{:kafka :datomic :aws :datadog :rest-apis :okta}
    :arch       "diplomat → controller → logic (I/O na borda, lógica pura no centro)"
    :philosophy "Fluxo desenhado antes de código escrito."
