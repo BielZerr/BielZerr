@@ -136,3 +136,5 @@ Se você trabalha com **Clojure**, **sistemas orientados a eventos** ou **automa
 <sub><code>(println "Obrigado por passar por aqui. 🟣")</code></sub>
 
 </div>
+
+<!-- atualizado em 2026-09 -->
