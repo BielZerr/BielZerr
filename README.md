@@ -137,4 +137,3 @@ Se você trabalha com **Clojure**, **sistemas orientados a eventos** ou **automa
 
 </div>
 
-<!-- atualizado em 2026-09 -->
